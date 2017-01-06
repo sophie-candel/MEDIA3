@@ -34,6 +34,10 @@
               
             <button><a href="droit-image-personnes.php?#droit-image-exceptions">Retour</a></button>
             
+            <span class='st_facebook_large' displayText='Facebook'></span>
+            <span class='st_twitter_large' displayText='Tweet'></span>
+            <span class='st_googleplus_large' displayText='Google +'></span>
+            
         </main>
 
 

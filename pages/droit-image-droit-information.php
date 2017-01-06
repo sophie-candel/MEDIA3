@@ -6,6 +6,7 @@
     <head>
         <meta name="description" content="Droit à l'image des personnes - exception du droit à l'information" />
         <title>Droit à l'image des personnes - exception du droit à l'information</title>
+        < 'Text / javascript' script type = src = 'https: //platform-api.sharethis.com/js/sharethis.js#property=586cd50a3b94df00122fd383' async = 'async'> </ script>
     </head>
 
     <body class="texte_fonce">
