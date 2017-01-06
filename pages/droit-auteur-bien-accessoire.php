@@ -17,6 +17,7 @@
            <section>
               <article>
                    <h1>Exceptions au droit à l'image - <span>Bien accessoire</span></h1>
+                   <div class="addthis_inline_share_toolbox"></div>
                    <h2>Une œuvre d’art qui est protégée par le droit d’auteur est normalement interdite de diffusion ou de représentation. Sauf si l’œuvre est accessoire.</h2>
                </article>
                <article>

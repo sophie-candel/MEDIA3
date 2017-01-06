@@ -16,6 +16,7 @@
                 <section>
                     <article>
                         <h1>Exceptions au droit à l'image - <span>Personnes célèbres</span></h1>
+                        <div class="addthis_inline_share_toolbox"></div>
                         <h2>Une personne célèbre peut être prise en photo dans un contexte public.</h2> </article>
                     <article>
                         <p>Elle ne pourra, en aucun cas s’opposer à la diffusion de cette photographie. Dans ce contexte, le but de la diffusion est informationnel et non commercial. On entend par contexte public soit un espace public ; soit un lieu privé dans lequel l'événement est médiatisé.</p>

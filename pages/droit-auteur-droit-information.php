@@ -17,6 +17,7 @@
            <section>
               <article>
                    <h1>Exceptions au droit à l'image - <span>Droit à l'information</span></h1>
+                   <div class="addthis_inline_share_toolbox"></div>
                    <h2>Dans un contexte médiatique, où le but est de rendre compte de l’actualité immédiate, des événements récents, le droit à l’information prime. </h2>
                </article>
                <article>

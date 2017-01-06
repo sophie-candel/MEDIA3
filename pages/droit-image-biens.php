@@ -16,6 +16,7 @@
                 <section>
                     <article>
                         <h1>Le droit à l'image des biens</h1>
+                        <div class="addthis_inline_share_toolbox"></div>
                         <h2>Certaines exceptions au droit à l’image des biens peuvent êtres faites. Elles concernent les oeuvres dites accessoires, le droit à l’information et la liberté de panorama.</h2> </article>
                 </section>
                 <section>

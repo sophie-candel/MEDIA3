@@ -17,6 +17,7 @@
                 <section>
                     <article>
                         <h1>Exceptions au droit à l'image - <span>Droit à l’information</span></h1>
+                        <div class="addthis_inline_share_toolbox"></div>
                         <h2>Dans un contexte médiatique, où le but est de rendre compte de l’actualité immédiate, le droit à l’information prime. Le droit à l’information rend alors possible la diffusion d’images de personnes et cela mêmes si elles sont reconnaissables, et mêmes sans leurs autorisations </h2>
                     </article>
                     

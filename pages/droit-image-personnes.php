@@ -16,6 +16,7 @@
                 <section>
                     <article>
                         <h1>Le droit à l'image des personnes</h1>
+                        <div class="addthis_inline_share_toolbox"></div>
                         <h2>Le droit à l’image permet de protéger toute personne prise en photo sans son consentement.Ce droit est protégé par l’article 9 du code civil pour protéger la vie privée des citoyens. </h2> </article>
                 </section>
                 <section>

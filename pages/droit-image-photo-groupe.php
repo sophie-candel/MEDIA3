@@ -16,6 +16,7 @@
                 <section>
                     <article>
                         <h1>Exceptions au droit à l'image - <span>Photo de groupe</span></h1>
+                        <div class="addthis_inline_share_toolbox"></div>
                         <h2>Dans le cadre de photographies de groupe dans des lieux publics, l’autorisation de ces personnes n’est pas obligatoire.</h2> 
                     </article>
                     

@@ -17,6 +17,7 @@
            <section>
               <article>
                    <h1>Exceptions au droit à l'image - <span>Démarche artistique</span></h1>
+                   <div class="addthis_inline_share_toolbox"></div>
                    <h2>Un artiste peut, s’il le souhaite contourner le droit à l’image à condition qu’il réalise une véritable démarche artistique</h2>
                </article>
                

@@ -17,6 +17,7 @@
            <section>
               <article>
                    <h1>Retrait d'une image en ligne</h1>
+                   <div class="addthis_inline_share_toolbox"></div>
                    <h2>Chapô</h2>
                </article>
             </section>

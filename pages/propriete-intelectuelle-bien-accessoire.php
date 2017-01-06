@@ -17,6 +17,7 @@
            <section>
               <article>
                    <h1>Exceptions au droit à l'image - <span>Bien accessoire</span></h1>
+                   <div class="addthis_inline_share_toolbox"></div>
                    <h2>Un bien (qu’il s’agisse d’une marque, d’une dénomination sociale, d’un nom commercial, d’une enseigne ou d’un nom de domaine),  qui est protégé par la propriété industrielle est normalement interdit de diffusion ou de représentation. Sauf si le bien est accessoire.</h2>
                </article>
                <article>
