@@ -7,6 +7,7 @@
             <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube-square"></i></a></li>
 -->
             <li>Mentions légales</li>
+            <li><a href="conditions-utilisation.php">Conditions d'utilisation</a></li>
             
         </ul>
     </article>
