@@ -27,4 +27,9 @@
         (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
     </script>
     
+    <script type="text/javascript">
+        tarteaucitron.user.addthisPubId = 'ra-586f9c8231c4cde3';
+        (tarteaucitron.job = tarteaucitron.job || []).push('addthis');
+    </script>
+    
 </head>
