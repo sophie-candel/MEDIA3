@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
     <!--HEADER-->
-    <?php include("../includes/header.php"); ?>
+    
     <head>
         <meta name="description" content="Droit à l'image des biens - cas d'un bien protégé par la propriété intelectuelle, exception du droit à l'information" />
         <title>Droit à l'image des biens - cas d'un bien protégé par la propriété intelectuelle, exception du droit à l'information</title>
+        <?php include("../includes/header.php"); ?>
     </head>
     
     <body class="texte_fonce">
@@ -29,7 +30,8 @@
             
         </main>
 
-
+        <?php include("../includes/notation.php"); ?>
+        
         <!--FOOTER-->
         <?php include("../includes/footer.php"); ?>
     </body>

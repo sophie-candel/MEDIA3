@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
     <!--HEADER-->
-    <?php include("../includes/header.php"); ?>
+    
     <head>
         <meta name="description" content="Droit à l'image des biens - cas d'un bien protégé par le droit d'auteur, exception de la liberté de panorama " />
         <title>Droit à l'image des biens - cas d'un bien protégé par le droit d'auteur, exception de la liberté de panorama</title>
+        <?php include("../includes/header.php"); ?>
     </head>
     
     <body class="texte_fonce">
@@ -53,11 +54,11 @@
 
                </article>
             </section>
-              
             <button><a href="droit-image-biens.php?#droit-auteur-exceptions">Retour</a></button>
             
         </main>
-
+       
+       <?php include("../includes/notation.php"); ?>
 
         <!--FOOTER-->
         <?php include("../includes/footer.php"); ?>

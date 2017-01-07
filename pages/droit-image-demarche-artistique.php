@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
     <!--HEADER-->
-    <?php include("../includes/header.php"); ?>
+    
     <head>
         <meta name="description" content="Droit à l'image des personnes - exception de la démarche artistique" />
         <title>Droit à l'image des personnes - exception de la démarche artistique</title>
+        <?php include("../includes/header.php"); ?>
     </head>
     
     <body class="texte_fonce">
@@ -41,6 +42,7 @@
             
         </main>
 
+        <?php include("../includes/notation.php"); ?>
 
         <!--FOOTER-->
         <?php include("../includes/footer.php"); ?>

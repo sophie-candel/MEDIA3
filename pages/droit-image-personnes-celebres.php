@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 <!--HEADER-->
-<?php include("../includes/header.php"); ?>
+
 
     <head>
         <meta name="description" content="Droit à l'image des personnes - exception des personnes célèbres" />
         <title>Droit à l'image des personnes - exception des personnes célèbres </title>
+        <?php include("../includes/header.php"); ?>
     </head>
 
     <body class="texte_fonce">
@@ -26,6 +27,9 @@
                 </section>
                  <button><a href="droit-image-personnes.php?#droit-image-exceptions">Retour</a></button>
             </main>
+            
+            <?php include("../includes/notation.php"); ?>
+        
             <!--FOOTER-->
             <?php include("../includes/footer.php"); ?>
     </body>

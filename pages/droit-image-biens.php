@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 <!--HEADER-->
-<?php include("../includes/header.php"); ?>
+
 
     <head>
         <meta name="description" content="Informations concernant le droit à l'information" />
         <title>Droit à l'image - droit à l'information</title>
+        <?php include("../includes/header.php"); ?>
     </head>
 
     <body class="texte_fonce">

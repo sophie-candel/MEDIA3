@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 <!--HEADER-->
-<?php include("../includes/header.php"); ?>
+
 
     <head>
         <meta name="description" content="Informations concernant le droit à l'image des personnes" />
         <title>Droit à l'image - le droit à l'image des personnes</title>
+        <?php include("../includes/header.php"); ?>
     </head>
 
     <body class="texte_fonce">
@@ -72,13 +73,9 @@
                     </section>
                 </section>
                 
-                <section>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                </section>
+                
+                
+                
             </main>
             <!--FOOTER-->
             <?php include("../includes/footer.php"); ?>
