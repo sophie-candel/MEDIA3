@@ -39,7 +39,8 @@ body {
 
 main,
 header,
-footer {
+footer,
+.notation{
     width: 930px;
     margin: 0 auto;
     background-color: #ffffff;
@@ -51,14 +52,14 @@ footer {
     height: 70px;
 }
 
-main {
+main,
+.notation{
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
 
 nav ul,
-footer article ul,
 .blocNav {
     display: flex; 
     justify-content: space-between;
@@ -111,6 +112,16 @@ footer .fa {
     margin: 0.5em 0 0.5em 0;
 }
 
+.rating {direction: rtl; width: 112px;}
+.rating a {font-size: 1.5em;}
+
+.rating a:hover,
+.rating a:focus,
+.rating a:hover ~ a,
+.rating a:focus ~ a {
+   color: orange;
+   cursor: pointer;
+}
 
 /* ******************************************************************** */
 /* TYPOS */
@@ -145,7 +156,7 @@ h4 {
     font-weight: 900;
 }
 
-article li  {
+main article li  {
     list-style: disc;
     margin-left: 3em;
 }

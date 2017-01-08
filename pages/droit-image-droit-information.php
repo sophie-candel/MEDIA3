@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 <!--HEADER-->
-<?php include("../includes/header.php"); ?>
+
 
     <head>
         <meta name="description" content="Droit à l'image des personnes - exception du droit à l'information" />
         <title>Droit à l'image des personnes - exception du droit à l'information</title>
+        <?php include("../includes/header.php"); ?>
     </head>
 
     <body class="texte_fonce">
@@ -19,6 +20,7 @@
                         <div class="addthis_inline_share_toolbox"></div>
                         <h2>Dans un contexte médiatique, où le but est de rendre compte de l’actualité immédiate, le droit à l’information prime. Le droit à l’information rend alors possible la diffusion d’images de personnes et cela mêmes si elles sont reconnaissables, et mêmes sans leurs autorisations </h2>
                     </article>
+                    
                     
                     <article>
                         <h3>Les conditions au droit à l’information</h3>
@@ -42,8 +44,11 @@
                         </ul>
                     </article>
                 </section>
-                 <button><a href="droit-image-personnes.php?#droit-image-exceptions">Retour</a></button>
+                <button><a href="droit-image-personnes.php?#droit-image-exceptions">Retour</a></button>
             </main>
+                
+            <?php include("../includes/notation.php"); ?>
+                 
             <!--FOOTER-->
             <?php include("../includes/footer.php"); ?>
     </body>

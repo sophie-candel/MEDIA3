@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 <!--HEADER-->
-<?php include("../includes/header.php"); ?>
+
 
     <head>
         <meta name="description" content="Informations concernant le droit à l'image des personnes" />
         <title>Droit à l'image - le droit à l'image des personnes</title>
+        <?php include("../includes/header.php"); ?>
     </head>
 
     <body class="texte_fonce">
@@ -13,12 +14,14 @@
         <?php include("../includes/nav.php"); ?>
             <!--MAIN-->
             <main>
+                
                 <section>
                     <article>
                         <h1>Le droit à l'image des personnes</h1>
                         <div class="addthis_inline_share_toolbox"></div>
                         <h2>Le droit à l’image permet de protéger toute personne prise en photo sans son consentement.Ce droit est protégé par l’article 9 du code civil pour protéger la vie privée des citoyens. </h2> </article>
                 </section>
+                
                 <section>
                     <article>
                         <h3>L'autorisation</h3>
@@ -69,6 +72,10 @@
                             <p>Une personne célèbre peut être prise en photo dans un contexte public.</p> <a href="droit-image-personnes-celebres.php"><i class="fa fa-plus-circle fa-inverse" aria-hidden="true"></i></a> </article>
                     </section>
                 </section>
+                
+                
+                
+                
             </main>
             <!--FOOTER-->
             <?php include("../includes/footer.php"); ?>

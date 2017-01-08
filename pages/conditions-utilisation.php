@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
     <!--HEADER-->
-    <?php include("../includes/header.php"); ?>
     <head>
         <meta name="description" content="Informations concernant les condition sd'utilisation" />
         <title>Droit à l'image - conditions d'utilisation</title>
+        <?php include("../includes/header.php"); ?>
     </head>
     
     <body class="texte_fonce">
