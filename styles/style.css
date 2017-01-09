@@ -135,7 +135,7 @@ footer .fa {
 
 a { text-decoration: none; }
 
-h2, h3, p {margin-bottom: 1.5em;}
+h2, h3, p, ul {margin-bottom: 1.5em;}
 
 h1 {
     font-size: 3em;

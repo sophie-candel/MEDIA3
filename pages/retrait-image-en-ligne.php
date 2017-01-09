@@ -31,10 +31,10 @@
                     <li>demander la dépublication de l’image</li>
                   </ul>
                   <h3>Savoir bien distinguer :</h3>
-                  <lu>
+                  <ul>
                     <li>la protection des données personnelles : <i>“Toute personne dispose du droit de décider et de contrôler les usages qui sont faits des données à caractère personnel la concernant, dans les conditions fixées par la présente loi.”</i> (article 1, loi informatique et libertés)</li>
                     <li><a href="droit-image-personnes.php">le droit à l'image</a></li>
-                  </lu>
+                  </ul>
                   <h3>procédure à suivre pour le retrait d’une image en ligne</h3>
                   <ul>
                     <li>Avant tout, vous devez être certain(e) que vous être identifiable sur ladite photo et/ou vidéo.</li>
