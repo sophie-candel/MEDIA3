@@ -47,7 +47,9 @@
                 <button><a href="droit-image-personnes.php?#droit-image-exceptions">Retour</a></button>
             </main>
                 
-            <?php include("../includes/notation.php"); ?>
+            <section class="notation">
+        <?php include("../includes/notation.php"); ?>
+        </section>
                  
             <!--FOOTER-->
             <?php include("../includes/footer.php"); ?>

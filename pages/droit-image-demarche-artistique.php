@@ -42,7 +42,9 @@
             
         </main>
 
+        <section class="notation">
         <?php include("../includes/notation.php"); ?>
+        </section>
 
         <!--FOOTER-->
         <?php include("../includes/footer.php"); ?>

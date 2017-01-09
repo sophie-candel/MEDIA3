@@ -6,7 +6,7 @@
             <li><a href="https://twitter.com/?lang=fr" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
             <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube-square"></i></a></li>
 -->
-            <li>< a href="../pages/mentions-legales.php">Mentions légales</a></li>
+            <li>< a href="mentions-legales.php">Mentions légales</a></li>
             <li><a href="conditions-utilisation.php">Conditions d'utilisation</a></li>
             
         </ul>

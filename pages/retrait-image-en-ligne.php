@@ -49,7 +49,9 @@ Usez de tous les moyens possibles : par le site lui-même, par les réseaux soci
             </section>
         </main>
         
+        <section class="notation">
         <?php include("../includes/notation.php"); ?>
+        </section>
         
         <!--FOOTER-->
         <?php include("../includes/footer.php"); ?>
