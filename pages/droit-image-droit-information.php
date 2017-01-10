@@ -14,15 +14,16 @@
         <?php include("../includes/nav.php"); ?>
             <!--MAIN-->
             <main>
-                <section>
-                    <article>
+                <section itemscope itemtype="https://schema.org/Article">
+               <meta itemprop="mainEntityOfPage" content="true"/>
+                    <article itemtype="articleBody">
                         <h1>Exceptions au droit à l'image - <span>Droit à l’information</span></h1>
                         <div class="addthis_inline_share_toolbox"></div>
                         <h2>Dans un contexte médiatique, où le but est de rendre compte de l’actualité immédiate, le droit à l’information prime. Le droit à l’information rend alors possible la diffusion d’images de personnes et cela mêmes si elles sont reconnaissables, et mêmes sans leurs autorisations </h2>
                     </article>
                     
                     
-                    <article>
+                    <article itemtype="articleBody">
                         <h3>Les conditions au droit à l’information</h3>
                         <p>Certaines conditions sont néanmoins à respecter telles que la portée informative, le lien direct avec l'événement, la dignité de la personne, le contexte de l’image.</p>
                         

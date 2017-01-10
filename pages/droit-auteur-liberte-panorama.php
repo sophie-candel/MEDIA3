@@ -15,14 +15,15 @@
 
         <!--MAIN-->
         <main>
-           <section>
-              <article>
+           <section itemscope itemtype="https://schema.org/Article">
+               <meta itemprop="mainEntityOfPage" content="true"/>
+              <article itemtype="articleBody">
                    <h1>Exceptions au droit à l'image - <span>Liberté de panorama</span></h1>
                    <div class="addthis_inline_share_toolbox"></div>
                    <h2>La liberté de panorama donne au particulier le droit de reproduire et de représenter les oeuvres architecturales et de sculptures situées en permanence sur la voie publique (but non lucratif).</h2>
                </article>
                
-               <article>
+               <article itemtype="articleBody">
                     <h3>Les principes de la liberté de panorama</h3>
                     <p>Un particulier peut, en toute légalité, prendre une photographie d’un monument ou d’une sculpture situé sur la voie publique. Il peut également la diffuser sur les réseaux sociaux, sans pour autant entraîner des poursuites judiciaires. Et cela grâce à la liberté de panorama ! Elle apparaît comme une <a href="droit-image-biens.php?#droit-auteur-exceptions">exception au droit d’auteur</a>. Seules conditions à cette liberté : les oeuvres doivent être situées en PERMANENCE dans un lieu public. Les expositions temporaires ne sont donc nullement affectée par cette exception. De plus, les représentations et reproductions doivent être à but non lucratif, c’est-à-dire, à but non commercial.</p>
 
