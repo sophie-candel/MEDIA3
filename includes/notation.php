@@ -2,7 +2,7 @@
 <h3>Commentaires</h3>
 
     <article>
-        <SCRIPT charset="utf-8" type="text/javascript" src="https://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=FR&ID=V20070822%2FFR%2Fdroitimageeu-21%2F8010%2Ff71edb2e-d10f-4629-bd0b-a8d8d1fe8a76&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A rel="nofollow" HREF="https://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=FR&ID=V20070822%2FFR%2Fdroitimageeu-21%2F8010%2Ff71edb2e-d10f-4629-bd0b-a8d8d1fe8a76&Operation=NoScript">Widgets Amazon.fr</A></NOSCRIPT>
+        <SCRIPT charset="utf-8" type="text/javascript" src="http://ws-eu.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=FR&ID=V20070822%2FFR%2Fdroitimage05-21%2F8010%2F8c7bea3a-fd6e-4847-a01f-54bb4ac8df0a&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A rel="nofollow" HREF="http://ws-eu.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=FR&ID=V20070822%2FFR%2Fdroitimage05-21%2F8010%2F8c7bea3a-fd6e-4847-a01f-54bb4ac8df0a&Operation=NoScript">Widgets Amazon.fr</A></NOSCRIPT>
     </article>
 
     <article itemscope itemtype="https://schema.org/Comment">
