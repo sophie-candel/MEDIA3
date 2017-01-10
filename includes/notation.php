@@ -4,6 +4,7 @@
     <li itemprop="">Nombre de commentaires : 2</li>
     <li itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">Meilleure note : <span itemprop="bestRating">4</span><meta itemprop="ratingCount" content="2"/></li>
 </ul>
+<SCRIPT charset="utf-8" type="text/javascript" src="https://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=FR&ID=V20070822%2FFR%2Fdroitimageeu-21%2F8010%2Ff71edb2e-d10f-4629-bd0b-a8d8d1fe8a76&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A rel="nofollow" HREF="https://ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=FR&ID=V20070822%2FFR%2Fdroitimageeu-21%2F8010%2Ff71edb2e-d10f-4629-bd0b-a8d8d1fe8a76&Operation=NoScript">Widgets Amazon.fr</A></NOSCRIPT>
 <article>
     <div class="rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><!--
     --><a href="#5" title="Donner 5 étoiles" itemprop="ratingValue"><i class="fa fa-star" aria-hidden="true"></i></a><!--
